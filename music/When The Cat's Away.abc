@@ -1,23 +1,25 @@
 X: 1
 T: When the Cat's Away
+T: Original
 C: Michael Pratt
 R: Reel
 M: 4/4
 L: 1/8
 K: Gmaj
-D |: "G" GDB,G, "C" CEDG | "G" FGAB "D" C'BAC' | "Em" BGDC "D" B,CDB, | "D" A,B,CE "G" DFAF |
-"G" GDB,G, "C" CEDG | "G" FGAB "D" C'BAC' | "Em" BGDC "D" B,CDG | "D" FGAB G3 :|
-|: "D" ADDB "D" DDC'D | "G" ABAG "D" FD D2 | "Em" EFGE "D" DB,G,2 | "D" A,B,CE "G" DFAF |
-"D" ADDB "D" DDC'D | "G" ABAG "D" FD D2 | "Em" EFGE "D" DB,DG | "G" FGAB G3 :|
+D |: "G" GDB,G, "C" CEDG | "D" FGAB "Am" C'BAC' | "G/Em" BGDC "Bm" B,CDB, | "Am" A,B,CE "D" DFAF |
+"G" GDB,G, "C" CEDG | "D" FGAB "Am" C'BAC' | "G/Em" BGDC "Bm" B,CDG | "D" FGAB "G" G3 :|
+|: "D" ADDB DDC'D | "G" ABAG "D" FD D2 | "Em" EFGE "Bm" DB,G,2 | "Am" A,B,CE "D" DFAF |
+ "D" ADDB DDC'D | "G" ABAG "D" FD D2 | "Em" EFGE "Bm" DB,DG | "D" FGAB "G" G3 :|
 
 X: 2
-T: When the Cat's Away - Whistle Version
+T: When the Cat's Away
+T: Flute
 C: Michael Pratt
 R: Reel
 M: 4/4
 L: 1/8
 K: Gmaj
-D |: gdBG cedg | fgab c'bac' | bgdc BcdB | ABce dfaf |
-gdBG cedg | fgab c'bac' | bgdc Bcdg | fgab g3 :|
-|: addb ddc'd | abag fd d2 | efge dBG2 | ABce dfaf |
-addb ddc'd | abag fd d2 | efge dBdg | fgab g3 :|
+D |: "G" GABG "C" EGDG | "D" FGAB "Am" C'BAC' | "G/Em" BGDE "Bm" DEFD | "Am" EFGE "D" DFAF |
+ "G" GABG "C" EGDG | "D" FGAB "Am" C'BAC' | "G/Em" BGDE "Bm" DEFG | "D" FGAB "G" G3 :|
+|: "D" ADDB DDC'D | "G" ABAG "D" FD D2 | "Em" EFGE "Bm" DGD2 | "Am" EFGE "D" DFAF |
+"D" ADDB DDC'D | "G" ABAG "D" FD D2 | "Em" EFGE "Bm" DFDG | "D" FGAB "G" G3 :|
